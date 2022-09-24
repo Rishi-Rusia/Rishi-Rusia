@@ -1,5 +1,5 @@
 [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)](https://rishirusia.io)
-<h1 align="center">Hi 👋, I'm Rishi Rusia</h1>
+<h1 align="center">Hi 👋, I'm Rishi</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 <img align="right" alt="Coding" style="margin-top:1000px;" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi-rusia&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-rusia" /> </p>
@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **React, Data Structures, Development**
 
-- 📫 How to reach me **rishirusiayolo@gmail.com**
+- 📫 How to reach me ** contact me at rishirusiayolo@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I'm kinda funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
