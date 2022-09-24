@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif)](https://rishirusia.io)
 <h1 align="center">Hi 👋, I'm Rishi Rusia</h1>
 <h3 align="center">A passionate computer science student from India</h3>
-<img align="right" alt="Coding" margin-top="100px" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" style="margin-top:100px;" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi-rusia&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-rusia" /> </p>
 
 
