@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi-rusia&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-rusia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishi-rusia" alt="rishi-rusia" /></a> </p>
 
 - 🔭 I’m currently working on **honing my web dev skills**
 
