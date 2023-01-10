@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **React, Data Structures, Development**
+- 💬 Ask me about: **React, Data Structures, Development**
 
-- 📫 How to reach me ** contact me at rishirusiayolo@gmail.com**
+- 📫 How to reach me: **contact me at rishirusiayolo@gmail.com**
 
-- ⚡ Fun fact **I'm kinda funny**
+- ⚡ Random Fun fact: **There was a bear enlisted in the polish army who made it to the rank of Corporal. He also smoked, drank and carried weapons to the front during battles. His name was Wojtek.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
