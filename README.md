@@ -15,10 +15,11 @@
   />
 </p>
 
-- 🔭 I’m currently working on **honing my web dev skills** - 🌱 I’m currently
-learning **React JS** - 💬 Ask me about: **React, Data Structures, Development**
-- 📫 How to reach me: **contact me at rishirusiayolo@gmail.com** - ⚡ Random Fun
-fact: **There was a bear enlisted in the polish army who made it to the rank of
+- 🔭 I’m currently working on **honing my web dev skills** 
+- 🌱 I’m currently learning **React JS** 
+- 💬 Ask me about: **React, Data Structures, Development**
+- 📫 How to reach me: **contact me at rishirusiayolo@gmail.com** 
+- ⚡ Random Fun fact: **There was a bear enlisted in the polish army who made it to the rank of
 Corporal. He also smoked, drank and carried weapons to the front during battles.
 His name was Wojtek.**
 
@@ -27,7 +28,7 @@ His name was Wojtek.**
   <a href="https://twitter.com/rishi_512" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"
       alt="rishi_512"
       height="30"
       width="40"
