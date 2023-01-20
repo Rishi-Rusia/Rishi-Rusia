@@ -1,8 +1,9 @@
-<link
+
+    [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)](https://rishirusia.io)
+    <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
     />
-    [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)](https://rishirusia.io)
     <h1 align="center">Hi 👋, I'm Rishi</h1>
     <h3 align="center">A passionate computer science student from India</h3>
     <img
