@@ -171,6 +171,7 @@ His name was Wojtek.**
   />
 </p>
 </br>
+</br>
 <p>
   &nbsp;<img
     align="center"
